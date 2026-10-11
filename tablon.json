@@ -1,0 +1,12 @@
+{
+  "app": "Videoteca",
+  "formato": 1,
+  "cifrado": "AES-256-GCM",
+  "llave": {
+    "tipo": "Argon2id",
+    "sal": "X/utFStqpH9vABB6hdQKXg==",
+    "memoria": 65536,
+    "iteraciones": 3,
+    "paralelismo": 1
+  }
+}
